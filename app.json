@@ -1,0 +1,18 @@
+{
+  "expo": {
+    "name": "Strategy Game",
+    "slug": "strategy-game-mobile",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "automatic",
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "android": {
+      "package": "com.strategy.game"
+    },
+    "ios": {
+      "bundleIdentifier": "com.strategy.game"
+    }
+  }
+}
